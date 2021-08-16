@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <h1>JavaScript Questions</h1>
 
